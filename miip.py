@@ -1,4 +1,3 @@
-
 import urllib.request
 import urllib.parse
 import http.client
@@ -39,7 +38,4 @@ while True:
 		sys.stdout.write ("DNS tiene tu IP " + extIP4 + " no necesita cambiarse en Google DNS")
 		sys.stdout.write("\n")
 	time.sleep(1800)
-
-
-
 
