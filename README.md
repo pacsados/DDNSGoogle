@@ -14,3 +14,5 @@ Ejecutar el contenedor:
       
         docker run -d -t -e usuario=******** -e passwd=******** -e dominio=xxx.xxx.xxx ddnsgoogle
 
+La actualizacion de DNS se comprueba cada 30 minutos si modifica el registro si es necesario
+
